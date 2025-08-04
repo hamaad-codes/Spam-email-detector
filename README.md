@@ -21,8 +21,6 @@ This is a machine learning-based project that detects whether an email message i
 ├── notebooks/
 │   ├── 01_EDA.ipynb        # Exploratory Data Analysis
 │   └── 02_Modeling.ipynb   # Model training and evaluation
-├── src/
-│   └── utils.py            # Utility functions
 ├── requirements.txt
 └── README.md
 ```
