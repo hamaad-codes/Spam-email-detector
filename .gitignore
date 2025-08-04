@@ -1,0 +1,17 @@
+# Ignore PyCharm or VSCode IDE settings
+.idea/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore model checkpoints or temp files (optional)
+*.pkl
+*.csv
+
+# Ignore OS files (optional)
+.DS_Store
+Thumbs.db
