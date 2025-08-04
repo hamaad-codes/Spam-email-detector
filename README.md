@@ -29,8 +29,8 @@ This is a machine learning-based project that detects whether an email message i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/spam-email-detector.git
-   cd spam-email-detector
+   git clone https://github.com/hamaad-codes/Spam-email-detector.git
+   cd Spam-email-detector
    ```
 
 2. **Install dependencies**
